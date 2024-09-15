@@ -56,7 +56,7 @@ Step-by-step instructions on how to install the project locally.
 
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/harrshyadav24/Apni-Dukaan-frontend.git
    cd your-repo
 2. Install dependencies:
    ```bash
